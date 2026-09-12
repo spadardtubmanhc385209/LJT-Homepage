@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://nlp-ust.github.io/), supervised by Prof. Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, advised by Prof. Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 My Google Scholar profile is [here](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
@@ -23,14 +23,6 @@ My Google Scholar profile is [here](https://scholar.google.com/citations?hl=en&u
 
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
-- LLM Truthfulness and Interpretability
-
-## Skills
-
-- Natural Language Processing
-- Machine Learning
-- Large Language Model Reasoning and Reinforcement Learning
-- Vision-Language Models (VLM) Hallucination
 - LLM Truthfulness and Interpretability
 
 ## Education
